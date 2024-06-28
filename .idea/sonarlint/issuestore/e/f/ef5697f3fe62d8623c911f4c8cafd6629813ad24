@@ -1,0 +1,8 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(Î€ß°üÿÿÿÿ8Ë±Ëò„2J$3c69ae52-298c-497a-89ba-3ecbcaa06391
+m	java:S106"+Replace this use of System.out by a logger.(Ë’8Ë±Ëò„2J$e3f4587c-3423-46ab-a449-a7274da7321a
+m	java:S106"+Replace this use of System.out by a logger.(Ş¿Ûõ8Ì±Ëò„2J$f36885e8-96dc-4c9b-bf93-4a26b475c0b0
+r	java:S106"+Replace this use of System.out by a logger.(İ»Öãûÿÿÿÿ8Í¸Óò„2J$e9f56d0d-f7f5-4340-b0f9-eea5cb219f26
+l	java:S106"+Replace this use of System.out by a logger.(É¯¸i8üšÕò„2J$c1d9c0ee-0874-4042-b52d-a81b057293ba
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8²®üò„2
